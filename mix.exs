@@ -1,4 +1,4 @@
-defmodule BrandoDynamicMenu.Mixfile do
+defmodule Brando.DynamicMenu.Mixfile do
   use Mix.Project
 
   def project do
